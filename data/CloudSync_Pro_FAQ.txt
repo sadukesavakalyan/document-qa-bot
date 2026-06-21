@@ -1,0 +1,31 @@
+Product FAQ — CloudSync Pro
+
+What is CloudSync Pro?
+CloudSync Pro is a file synchronization service that automatically backs up and syncs files across all of a user's devices in real time.
+
+What is the storage limit on the Basic plan?
+The Basic plan includes 50 GB of cloud storage. The Pro plan includes 500 GB, and the Business plan includes 2 TB per user.
+
+How much does the Pro plan cost?
+The Pro plan costs $9.99 per month when billed monthly, or $7.99 per month when billed annually.
+
+Can I share files with people outside my organization?
+Yes. Pro and Business plan users can generate shareable links with optional password protection and expiration dates. Basic plan users can only share files with other CloudSync Pro users.
+
+What happens if I exceed my storage limit?
+If you exceed your storage limit, file uploads are paused until you either free up space or upgrade your plan. Existing files remain accessible and are not deleted.
+
+Is there a free trial?
+Yes, all paid plans include a 14-day free trial. No credit card is required to start the trial.
+
+How do I cancel my subscription?
+You can cancel your subscription at any time from the Billing section of your account settings. Cancellations take effect at the end of the current billing cycle, and you will retain access until that date.
+
+What is the maximum file size I can upload?
+The maximum file size for a single upload is 5 GB on the Basic plan and 50 GB on the Pro and Business plans.
+
+Does CloudSync Pro support two-factor authentication?
+Yes, two-factor authentication can be enabled from the Security tab in account settings. We strongly recommend enabling it for all accounts.
+
+Who can I contact for support?
+Support is available via email at support@cloudsyncpro.example for all plans. Pro and Business plan users also have access to live chat support during business hours, 9 AM to 6 PM Eastern Time, Monday through Friday.

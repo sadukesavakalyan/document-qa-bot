@@ -1,0 +1,1 @@
+where YOU put your source documents (PDFs, DOCX, TXT files you want the bot to answer questions about). This is the only folder you manually add files to.

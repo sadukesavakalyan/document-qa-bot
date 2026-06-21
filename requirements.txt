@@ -1,0 +1,20 @@
+# Core LLM + embeddings SDK
+# NOTE: google-generativeai is deprecated by Google in favor of google-genai.
+# This project uses the current, supported SDK.
+google-genai>=1.0.0
+
+# Vector database (local, disk-persistent, no server required)
+chromadb>=0.5.0
+
+# Document parsing
+pypdf>=4.0.0
+python-docx>=1.1.0
+
+# Environment / config management
+python-dotenv>=1.0.1
+
+# Progress bars during ingestion
+tqdm>=4.66.0
+
+# Bonus web UI (optional, only needed if running streamlit_app.py)
+streamlit>=1.30.0
